@@ -1,8 +1,8 @@
 # React Boilerplate + Bootstrap Dashboard React
 ---
-Integrate
+<h3 Integrate></h3>
 <img src="https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
-with the
+<h3 with the></h3>
 <img src="https://i.imgur.com/BakbYBt.png" align="center">
 
 ### Reference:
